@@ -5,6 +5,7 @@
     background-color: var(--cor-de-fundo);
     
     }
-    h1 {
+    h1 {<link rel=”stylesheet”
+href=”reset.css”>,
     background-color: white;
     }
